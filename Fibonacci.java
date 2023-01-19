@@ -21,7 +21,7 @@ public class Fibonacci {
     }
  public static void main(String[] args)
  {
-     int n=3;
+     int n=5;
      fibo(n);
     
  }
